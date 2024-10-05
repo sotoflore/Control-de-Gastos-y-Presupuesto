@@ -1,5 +1,4 @@
 #  Planificador de gastos con Context API
 
-## Context API
-
-estado global sin dependencias
+demo
+![demo-web-app](https://github.com/sotoflore/Control-de-Gastos-y-Presupuesto-Context-API/blob/main/public/web-app.png)
